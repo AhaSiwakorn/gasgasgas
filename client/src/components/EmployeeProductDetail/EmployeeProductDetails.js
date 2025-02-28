@@ -47,7 +47,7 @@ const ProductDetails = (props) => {
   };
 
   return (
-    <div className="product-details-container">
+    <div className="product-details-container a">
       <div className="top-right">
         <button onClick={handleBackClickToProductList}>Back</button>
       </div>
